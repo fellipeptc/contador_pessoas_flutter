@@ -1,4 +1,4 @@
-# contador_pessoas
+# App Contador de Pessoas em Flutter
 
 Primeiro App feito em Flutter. Projeto de aprendizado e crescimento como desenvolvedor.  
 De forma pessoal e profissional.  
