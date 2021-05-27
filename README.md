@@ -1,7 +1,7 @@
 # contador_pessoas
 
-Primeiro App feito em Flutter. Projeto de aprendizado e crescimento como desenvolvedor. 
-De forma pessoal e profissional.
+Primeiro App feito em Flutter. Projeto de aprendizado e crescimento como desenvolvedor.  
+De forma pessoal e profissional.  
 
 ## Aprendizado em Curso de Flutter 
 
