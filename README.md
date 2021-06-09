@@ -1,8 +1,7 @@
-# App Contador de Pessoas em Flutter
+## Contador de Pessoas em Flutter
 
-Primeiro App feito em Flutter. Projeto de aprendizado e crescimento como desenvolvedor.  
-De forma pessoal e profissional.  
+Aluno: Fellipe Prates  
+Projeto: App em Flutter inicial, contador.
 
-## Aprendizado em Curso de Flutter 
-
-Curso de Daniel Ciolfi e Rodrigo Marques - Flutter Brasil
+Curso Flutter - Criação de Apps Android e IOS (Udemy)  
+[ Daniel Ciolfi | Rodrigo Marques | Flutter Brasil ]
